@@ -11,8 +11,3 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <
-<a href="https://linkedin.com/in/www.linkedin.com/in/ cerettidanilo-dev" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ cerettidanilo-dev" height="30 " width="40" /></a>
-</p>
-
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com /devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" height=" 40"/> </a> </p>
